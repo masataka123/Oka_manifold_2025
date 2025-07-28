@@ -15,7 +15,7 @@
 - 日下部 佑太 (九州大学) <br>
 岡多様体のサーベイ(2時間講演)
 - 岩井 雅崇 (大阪大学) <br>
-CampanaのSpecial多様体の解説+Campana-Winkelmann[On h-principle and specialness for complex projective manifolds](https://content.algebraicgeometry.nl/2015-3/2015-3-013.pdf)の解説 (2時間講演)
+CampanaのSpecial多様体の解説+Campana-Winkelmann [On h-principle and specialness for complex projective manifolds](https://content.algebraicgeometry.nl/2015-3/2015-3-013.pdf)の解説 (2時間講演)
 
 上に関してはあくまでも予定です. 
 詳しいスケジュールや講演内容は11月末にお伝えいたします. 
