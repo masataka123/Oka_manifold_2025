@@ -7,15 +7,32 @@
 [2025年度 多変数関数論冬セミナー]()(12/19-12/21)の二日前から行います. 
 
 ## 講演者
+- 生駒 竜也 (九州大学)
 - 岩井 雅崇 (大阪大学)
+- 内本 諒 (九州大学)
+- 大岩 亮太 (九州大学)
 - 日下部 佑太 (九州大学)
+- 杉山 俊 (北九州工業高等専門学校)
+- 鈴木 良明 (大阪大学) 
+- 宮崎 泰一 (九州大学)
+
 
 ## スケジュール・講演内容
 
+2時間講演
 - 日下部 佑太 (九州大学) <br>
-岡多様体のサーベイ(2時間講演)
+岡多様体のサーベイ
 - 岩井 雅崇 (大阪大学) <br>
-CampanaのSpecial多様体の解説+Campana-Winkelmann [On h-principle and specialness for complex projective manifolds](https://content.algebraicgeometry.nl/2015-3/2015-3-013.pdf)の解説 (2時間講演)
+CampanaのSpecial多様体の解説+Campana-Winkelmann [On h-principle and specialness for complex projective manifolds](https://content.algebraicgeometry.nl/2015-3/2015-3-013.pdf)の解説
+
+1時間講演
+- 生駒 竜也 (九州大学)
+- 内本 諒 (九州大学)
+- 大岩 亮太 (九州大学)
+- 杉山 俊 (北九州工業高等専門学校)
+- 鈴木 良明 (大阪大学) 
+- 宮崎 泰一 (九州大学)
+
 
 上に関してはあくまでも予定です. 
 詳しいスケジュールや講演内容は11月末にお伝えいたします. 
@@ -126,12 +143,17 @@ Here is the PDF file of program and abstracts. [Program](https://masataka123.git
 さらなる情報に関しては[南部陽一郎ホールのページ](https://www.sci.osaka-u.ac.jp/ja/nambu-hall/)をご覧ください. 
 -->
 
+## ノート
+
+勉強会終了後に許可が取れた講演のノートをアップロードいたします. 
+
 
  
 ## 世話人
 
 - [岩井 雅崇](https://masataka123.github.io/blog3/) (大阪大学)
 - [日下部 佑太](https://kusakabe.github.io) (九州大学)
+- [渡邊 祐太](https://sites.google.com/view/yuta-watanabe-math-webpage) (中央大学)
 
 何かご質問がありましたら, 岩井(masataka[at]math.sci.osaka-u.ac.jp)までご連絡ください.
 
