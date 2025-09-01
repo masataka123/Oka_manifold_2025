@@ -30,7 +30,9 @@ CampanaのSpecial多様体の解説+Campana-Winkelmann [On h-principle and speci
 - 内本 諒 (九州大学)
 - 大岩 亮太 (九州大学)
 - 杉山 俊 (北九州工業高等専門学校)
-- 鈴木 良明 (大阪大学) 
+- 鈴木 良明 (大阪大学)  <br>
+Y. Eliashberg, M.Gromov. 
+[Embeddings of Stein Manifolds of Dimension n into the Affine Space of Dimension 3n/2 + 1](https://www.jstor.org/stable/2946547?seq=1)の解説. 
 - 宮崎 泰一 (九州大学)
 
 
