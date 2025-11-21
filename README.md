@@ -17,108 +17,40 @@
 - 宮崎 泰一 (九州大学)
 
 
-## スケジュール・講演内容
+## プログラム・スケジュール・講演内容
 
-2時間講演
-- 日下部 佑太 (九州大学) <br>
-岡多様体のサーベイ
-- 岩井 雅崇 (大阪大学) <br>
-CampanaのSpecial多様体の解説+Campana-Winkelmann [On h-principle and specialness for complex projective manifolds](https://content.algebraicgeometry.nl/2015-3/2015-3-013.pdf)の解説
-
-1時間講演
-- 生駒 竜也 (九州大学)
-- 内本 諒 (九州大学)
-- 大岩 亮太 (九州大学)
-- 杉山 俊 (北九州工業高等専門学校)
-- 鈴木 良明 (大阪大学)  <br>
-Y. Eliashberg, M.Gromov. 
-[Embeddings of Stein Manifolds of Dimension n into the Affine Space of Dimension 3n/2 + 1](https://www.jstor.org/stable/2946547?seq=1)の解説. 
-- 宮崎 泰一 (九州大学)
+[プログラムのpdf](https://masataka123.github.io/Oka_manifold_2025/material/program_Oka_manifold.pdf)
 
 
-上に関してはあくまでも予定です. 
-詳しいスケジュールや講演内容は11月末にお伝えいたします. 
+### 2025年12月17日（水）
 
-<!--
-
-### 2024年12月13日（金）
-
-1. 13:00--14:00 
-**丸亀 泰二 (電気通信大学)**<br>
-Chains on twistor CR manifolds and conformal geodesics in dimension three
-2. 14:30--15:30 
-**松田 凌 (京都大学)**<br>
-退化擬等角写像のタイヒミュラー空間論に向けて
-3. 16:00--17:00 
-**渡邊 祐太 (中央大学)**<br>
-Bigness of adjoint linear subsystem and approximation theorems with ideal sheaves on
-weakly pseudoconvex manifolds
-
-### 2024年12月14日（土）
-1. 10:00--11:00 
-**山ノ井 克俊 (大阪大学)**<br>
-準アーベル多様体から作られるspecial 多様体について
-2. 11:30--12:30 
-**鈴木 良明 (新潟大学)**<br>
-The spectrum of the Folland-Stein operator on some Heisenberg Bieberbach manifolds
-3. 14:30--15:30 
-**上野 康平 (大同大学)**<br>
-Newton polygons and Bottcher coordinates for skew products: superattracting case and
-polynomial case
-4. 16:00--17:00 
-**青井 顕宏 (和歌山工業高等専門学校)**<br>
-Microscopic stability thresholds and constant scalar curvature Kahler metrics
-
-### 2024年12月15日（日）
-1. 10:00--11:00 
-**奥間 智弘 (山形大学)**<br>
-正規複素曲面特異点の正規還元種数について
-2. 11:30--12:30 
+1. 9:30--11:30 
+**日下部 佑太 (九州大学)**<br>
+岡多様体論の現状と未来
+2. 13:00--14:00 
+**大岩 亮太(九州大学)**<br>
+Siuの定理の一般化とholomorphic submersionのsectionの近似拡張定理について
+3. 14:20--15:20 
+**宮崎 泰一 (九州大学)**<br>
+有理型関数と有理写像による近似について
+4. 15:40--16:40 
 **杉山 俊 (北九州工業高等専門学校)**<br>
-Holomorphic line bundles and divisors on Riemann domains over Cohen-Macaulay Stein
-spaces
+Some properties of meromorphically convex sets
 
+### 2025年12月18日（木）
 
-## Schedule
-### 17th September (Tuesday)
-
-1. 13:00--14:00  **Sho Tanimoto (Nagoya University)** <br>
-Campana rational connectedness and weak approximation
-2. 14:30--15:30 **Takuzo Okada (Kyushu University)** <br>
-Birationally solid Fano 3-fold hypersurfaces
-3. 16:00--17:00 **Taro Yoshino (The University of Tokyo)** <br>
-Stable rationality of hypersurfaces in Grassmannian varieties
-
-### 18th September (Wednesday)
-1. 10:00--11:00 **Akihiro Kanemitsu (Tokyo Metropolitan University)** <br>
-Mukai pairs and associated K3 surfaces
-2. 11:30--12:30 **Jie Liu (Academy of Mathematics and Systems Science, Chinese
-Academy of Sciences (AMSS CAS))** <br>
-Symplectic singularities arising from the algebra of symmetric tensors
-3. 14:30--15:30 **Juanyong Wang (Academy of Mathematics and Systems Science,
-Chinese Academy of Sciences (AMSS CAS))** <br>
-An abundance-type result for tangent bundles of smooth Fano varieties
-4. 16:00--17:00 **Guolei Zhong (Institute for Basic Science Center for Complex
-Geometry (IBS-CCG))** <br>
-Projective varieties with almost nef tangent sheaves and its dynamical application
-
-### 19th September (Thursday)
-1. 10:00--11:00 **Hirotaka Onuki (The University of Tokyo)** <br>
-On the effective generation of direct images of pluricanonical bundles in mixed characteristic
-2. 11:30--12:30 **Fuetaro Yobuko (Tokyo University of Science)** <br>
-Quasi-F-splitting and positivity in positive characteristic
-3. 14:30--15:30 **Hiromu Tanaka (The University of Tokyo)** <br>
-Classification of smooth Fano threefolds in positive characteristic
-4. 16:00--17:00 **Yuta Takahashi (Chuo University)** <br>
-Fano 4-folds with nef tangent bundle in positive characteristic
-
-### 20th September (Friday)
-1. 10:00--11:00 **Wahei Hara (Kavli IPMU, The University of Tokyo)** <br>
-Rank two weak Fano bundles over Fano threefolds of Picard rank one
-2. 11:30--12:30 **Tatsuro Kawakami (Kyoto University)** <br>
-Kodaira vanishing for smooth Fano threefolds in positive characteristic
--->
-
+1. 9:30--11:30 
+**岩井雅崇 (大阪大学)**<br>
+CampanaのSpecial多様体およびCampana-Winkelmann ``On h-principle and specialness for complex projective manifolds''の解説
+2. 13:00--14:00 
+**内本 諒 (九州大学)**<br>
+特異アフィントーリック多様体への正則写像の拡張
+3. 14:20--15:20 
+**生駒 竜也 (九州大学)**<br>
+Andersén-Lempert理論とDensity Propertyについて
+4. 15:40--16:40 
+**鈴木 良明 (大阪大学)**<br>
+Stein多様体の埋め込み先の最小次元について
 
 <!--
 ##  プログラム

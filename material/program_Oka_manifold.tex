@@ -1,0 +1,294 @@
+\documentclass[dvipdfmx,a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+%\usepackage[dvipdfmx]{hyperref} %リンクを有効にする
+\usepackage{url} %同上
+\usepackage{amsmath,amssymb} %もちろん
+\usepackage{amsfonts,amsthm,mathtools} %もちろん
+\usepackage{braket,physics} %あると便利なやつ
+\usepackage{bm} %ラプラシアンで使った
+\usepackage[top=30truemm,bottom=20truemm,left=25truemm,right=25truemm]{geometry} %余白設定
+\usepackage{latexsym} %ごくたまに必要になる
+\renewcommand{\kanjifamilydefault}{\gtdefault}
+\usepackage{otf} %宗教上の理由でmin10が嫌いなので
+
+
+\usepackage[all]{xy}
+\usepackage{amsthm,amsmath,amssymb,comment}
+\usepackage{amsmath}    % \UTF{00E6}\UTF{0095}°\UTF{00E5}\UTF{00AD}\UTF{00A6}\UTF{00E7}\UTF{0094}¨
+\usepackage{amssymb}  
+\usepackage{color}
+\usepackage{amscd}
+\usepackage{amsthm}  
+\usepackage{wrapfig}
+\usepackage{comment}	
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{pxrubrica}
+\usepackage{enumitem}
+\usepackage{mathrsfs} 
+\usepackage[dvipdfmx]{hyperref}
+\setstretch{1.2}
+
+\newcommand{\mathsym}[1]{{}}
+\newcommand{\unicode}[1]{{}}
+
+\newcounter{mathematicapage}
+
+
+%%%%%%%%% Theorem-like environment %%%%%%%%%%%
+%
+\theoremstyle{plain} %text of this environment is typesetted in italics
+\newtheorem{theorem}{\indent\sc Theorem}[section]
+\newtheorem{lemma}[theorem]{\indent\sc Lemma}
+\newtheorem{corollary}[theorem]{\indent\sc Corollary}
+\newtheorem{proposition}[theorem]{\indent\sc Proposition}
+\newtheorem{claim}[theorem]{\indent\sc Claim}
+\newtheorem{conjecture}[theorem]{\indent\sc Conjecture}
+%
+\theoremstyle{definition} %text of this environment is typesetted in roman letters
+\newtheorem{definition}[theorem]{\indent\sc Definition}
+\newtheorem{remark}[theorem]{\indent\sc Remark}
+\newtheorem{example}[theorem]{\indent\sc Example}
+\newtheorem{notation}[theorem]{\indent\sc Notation}
+\newtheorem{assertion}[theorem]{\indent\sc Assertion}
+\newtheorem{observation}[theorem]{\indent\sc Observation}
+\newtheorem{problem}[theorem]{\indent\sc Problem}
+\newtheorem{question}[theorem]{\indent\sc Question}
+%
+%If a theorem-like environment should not be numbered,
+%add * after \newtheorem, and delete the counter option such as [theorem].
+\newtheorem*{remark0}{\indent\sc Remark}
+%
+%%%%% Proof %%%%%
+\renewcommand{\proofname}{\indent\sc Proof.}
+%The following commands are available in the proof environment:
+%\begin{proof}
+%\end{proof}
+%The end of a proof is marked with a square.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{center}
+  {\LARGE 岡多様体の勉強会}
+ 
+  %{\large -Around positivity of tangent sheaves and anti-canonical divisors-}
+  %\vskip2mm{\LARGE Prospects and Open Problems \\ in Higher-dimensional Algebraic Geometry}
+  \end{center}
+  
+\vskip5mm
+\begin{flushleft}
+{ 日時: 2025年12月17日（水）午前 -- 18日（木）午後}
+
+
+{ 場所: 九州大学 伊都キャンパス ウエスト1号館 D-625}
+
+ホームページ: \url{https://masataka123.github.io/Oka_manifold_2025/}
+
+\end{flushleft}
+
+
+%\footnote{ホームページ: \texttt{https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry-in-osaka-2023?authuser=0}}
+%\footnote{This conference is supported by Osaka City University Advanced Mathematical Institute: MEXT Joint Usage/Research Center on Mathematics and Theoretical Physics.}
+
+
+\vskip5mm
+\noindent{\Large \bf プログラム}
+\vskip3mm
+
+\noindent{\bf 2025年12月17日（水）}
+\vskip1mm
+\noindent {\bf 9:30-11:30}
+{\bf 日下部 佑太 (九州大学)}\\
+岡多様体論の現状と未来
+\vskip3mm
+
+\noindent {\bf 13:00-14:00}
+{\bf 大岩 亮太(九州大学)}\\
+Siuの定理の一般化とholomorphic submersionのsectionの近似拡張定理について
+\vskip3mm
+
+\noindent {\bf 14:20-15:20}
+{\bf 宮崎 泰一 (九州大学)}\\
+有理型関数と有理写像による近似について
+\vskip3mm
+
+\noindent {\bf 15:40-16:40}
+{\bf 杉山 俊 (北九州工業高等専門学校)}\\
+Some properties of meromorphically convex sets
+\vskip5mm
+
+\noindent{\bf 2025年12月18日（木）}
+\vskip1mm
+\noindent {\bf 9:30-11:30}
+{\bf 岩井雅崇 (大阪大学)}\\
+CampanaのSpecial多様体およびCampana-Winkelmann ``On h-principle and specialness for complex projective manifolds''の解説
+\vskip3mm
+
+\noindent {\bf 13:00-14:00}
+{\bf 内本 諒 (九州大学)}\\
+特異アフィントーリック多様体への正則写像の拡張
+\vskip3mm
+
+\noindent {\bf 14:20-15:20}
+{\bf 生駒 竜也 (九州大学)}\\
+Andersén-Lempert理論とDensity Propertyについて
+\vskip3mm
+
+\noindent {\bf 15:40-16:40}
+{\bf 鈴木 良明 (大阪大学)}\\
+Stein多様体の埋め込み先の最小次元について
+\vskip5mm
+
+
+  \newpage
+  
+\noindent{\large \bf お知らせ}
+
+この集会は2025年度 多変数関数論冬セミナー(12/19-12/21)の二日前から行います.
+冬セミナーと合わせてご出席いただければと思います. 
+なお冬セミナーのホームページは以下の通りです.
+\begin{center}
+\url{https://kusakabe.github.io/2025scvwinter/}
+\end{center}
+
+また九州大学等のアクセスに関しても, 冬セミナーのホームページをご参照ください. 
+  
+  \vskip5mm
+  \noindent{\large \bf 世話人}
+\begin{itemize}
+  \setlength{\parskip}{0cm} 
+  \setlength{\itemsep}{0cm}
+\item 岩井 雅崇 (大阪大学)
+\item 日下部 佑太 (九州大学)
+\item 渡邊 祐太 (中央大学)
+  \end{itemize}
+
+\vskip5mm
+
+\noindent{\large \bf 補助}
+
+この集会は以下の科学研究費補助金の補助により開催されます.
+
+\begin{itemize}
+  \setlength{\parskip}{0cm} 
+  \setlength{\itemsep}{0cm}
+\item 若手研究「オービフォルド構造に注目した非負曲率の研究および代数多様体の分類理論への応用」
+ (代表：岩井 雅崇（大阪大学） 課題番号22K13907)
+ \item 研究活動スタート支援「特異エルミート計量と相対随伴束の順像層に関する正値性とその代数幾何学への応用」
+ (代表：渡邊 祐太 （中央大学） 課題番号24K22837)
+  \end{itemize}
+
+\newpage
+
+\noindent{\Large \bf アブストラクト}
+\vskip5mm
+
+\noindent{\large \bf 2025年12月17日（水）}
+\vskip5mm
+\noindent{\bf 日下部 佑太 (九州大学)}\\
+岡多様体論の現状と未来
+\vskip3mm
+複素解析におけるホモトピー原理である岡の原理は, 岡による1939年の発見からちょうど50年後の1989年に, Gromovの楕円複素幾何学の視点によって大きく進展し, 岡多様体論として結実した.
+本講演の前半では, 他の講演で扱われる話題が岡多様体論の文脈でどのように捉えられるのかを解説しつつ, 岡多様体論の現状を簡潔に整理する.
+後半では, 第22回岡シンポジウムで提起した岡多様体論における三大問題の候補やその周辺の未解決問題を, 最新の結果を交えながら概観し, 岡の原理の発見から100年後を見据えた発展の道筋を探る.
+\vskip8mm
+
+\noindent{\bf 大岩 亮太(九州大学)}\\
+Siuの定理の一般化とholomorphic submersionのsectionの近似拡張定理について
+\vskip3mm
+この講演ではForstneričによって得られた, holomorphic submersionのsectionに対する近似拡張定理を解説する.
+この定理はStein解析的部分空間$Y$と, 正則凸なコンパクト集合$K$の開近傍$U$, そして和集合$Y\cup U$上に定義された$Y$と$U$上正則なsectionに対し, $Y\cup K$の近傍の列$V_j$と, 各$V_j$上のholomorphic sectionの列$f_j$が存在して$Y$で元の切断と一致し, かつ$K$上では一様近似されることを主張するものである. この証明には，Siuの定理を一般化した結果が用いられている. 
+\vskip8mm
+
+\noindent{\bf 宮崎 泰一 (九州大学)}\\
+有理型関数と有理写像による近似について
+\vskip3mm
+reduced Stein spaceにおいて, Cartan--Oka--Weilの定理がパラメーター付きで成立することが知られている. これは正則凸コンパクト集合の近傍上の正則関数を大域的な正則関数で近似するOka--Weilの定理と, 閉解析的部分集合上の正則関数を大域的な正則関数に拡張するOka--Cartanの定理をパラメーター付きで同時に行えるというもので, 岡多様体における分脈では$\mathbb{C}$がPOPAIという性質を持つことを主張している. また, Forstneri\v{c}は定義域をaffine algebraic variety $X$, 値域をalgebraically elliptic manifoldという岡多様体の特別なクラスに制限した場合の近似定理を示した. 本講演では, これらの有理型版について時間の許す限り取り扱う事にする. なお, これらの結果は日下部佑太氏との共同研究に基づく.
+\vskip8mm
+
+\newpage
+
+\noindent{\bf 杉山 俊 (北九州工業高等専門学校)}\\
+Some properties of meromorphically convex sets
+\vskip3mm
+被約Stein空間の有理形凸集合の諸性質について解説する．
+特に、有理形凸compact集合はprincipal hypersurfaceを除き定義される多重劣調和関数からなる凸compact集合と一致することを述べる．
+これは，日下部氏(九州大学)、宮崎氏(九州大学)との共同研究である．
+\vskip8mm
+
+
+\vskip5mm
+\noindent{\large \bf 2025年12月18日（木）}
+\vskip5mm
+
+\noindent{\bf 岩井雅崇 (大阪大学)}\\
+CampanaのSpecial多様体およびCampana-Winkelmann ``On h-principle and specialness for complex projective manifolds"の解説
+\vskip3mm
+Campanaは2004年の論文において, $\mathbb{P}^1$や楕円曲線の一般化となる``Special 多様体"を導入した. Special
+多様体はコンパクトケーラー多様体の構成要素の一つとも言える. 実際, 任意のコンパクトケーラー多様体$X$は, Special
+多様体とログ一般型(ログ標準束$K_X + \Delta$が巨大)の二つに``分解"できることがわかっている.
+
+``一般型(標準束$K_X$が巨大)ならばZariski denseなentire curve $\mathbb{C} \to X$が存在しない"という有名な予想(Green-Griffiths予想)や,
+一般型多様体と小林双曲性が関連しているという観点から見ると, Special 多様体はその逆, つまりentire curve $\mathbb{C}\to X$がいっぱい存在しうる多様体とも思える.
+実際, Campanaは次が同値であることを予想している. 
+\begin{itemize}
+ \setlength{\parskip}{0cm}
+  \setlength{\itemsep}{0pt} 
+\item $X$ はspecial 多様体である. 
+\item $X$ は$\mathbb{C}$-connected, つまり任意の2点があるentire curveで結べる.
+\item $X$ の小林擬距離が常に0である.
+\end{itemize}
+
+さて岡多様体もまた$\mathbb{C}^n$からの正則写像を多く持ち, どこか上の性質と似たような"感じ"がする.
+岡多様体はspecial多様体とどのように関係しているのだろうか?
+この講演ではCampanaが導入した``Special 多様体"に関して概説し, その後, 岡多様体・h-principleとspecial
+多様体の関係やそれに関する多くの問題・予想を提起したCampana-Winkelmanの論文を解説する.
+
+\hspace{-18pt}[解説論文詳細]
+%・F. Campana "Orbifolds, special varieties and classification theory", Ann. Inst. Fourier (Grenoble)54. (2004), no. 3, 499–630; doi:10.5802/aif.2027.
+
+ F. Campana and J. Winkelmann, ``On the h-principle and specialness for complex projective manifolds." Algebr. Geom. 2, (2023) No. 3, 298--314
+%(2015; Zbl 1327.32020)
+\vskip8mm
+
+\newpage 
+\noindent{{\bf 内本 諒 (九州大学)}\\
+特異アフィントーリック多様体への正則写像の拡張
+\vskip3mm
+本講演では Lärkäng--Lárusson ``Extending holomorphic maps from Stein manifolds into affine toric varieties" に基づき, (特異点をもちうる) アフィントーリック多様体を値域とした場合の正則写像の拡張問題を紹介する. 
+
+\hspace{-18pt}[解説論文詳細]
+
+R. Lärkäng and F. Lárusson, ``Extending holomorphic maps from Stein manifolds into affine toric varieties." Proc. Amer. Math. Soc. 144 (2016), no. 11, 4613--4626
+%; MR3544514)
+
+\vskip8mm
+
+\noindent{{\bf 生駒 竜也 (九州大学)}\\
+Andersén-Lempert理論とDensity Propertyについて
+\vskip3mm
+この講演では, 単射正則写像を正則自己同型写像で近似する理論であるAndersén-Lempert理論について概説する.
+その後, このAndersén-Lempert理論の枠組みを, より一般の多様体やリー代数へと拡張するために導入されたDensity Propertyについて紹介する. 
+\vskip8mm
+
+\noindent{\bf 鈴木 良明 (大阪大学)}\\
+Stein多様体の埋め込み先の最小次元について
+\vskip3mm
+$n$次元Stein多様体が$\mathbb{C}^{2n+1}$に固有埋め込みできることがGrauert, Narashimhan, Bishopの結果により知られていたが, 埋め込み先の複素ユークリッド空間の次元$2n+1$が固有埋め込みできる最小の次元であるのか？という問いが考えられる. 
+
+1970年にForterは, $n \geq 2$のとき, $\mathbb{C}^{[3n/2]}$に埋め込みできないStein多様体の存在を示している. 
+そして1992年にEliashbergとGromovにより, $n$が偶数の場合にStein多様体が$\mathbb{C}^{[3n/2]+1}$に固有埋め込みできることを示した. 
+さらにその後Schürmannによって2以上の奇数次元の場合にも$\mathbb{C}^{[3n/2]+1}$へ埋め込まれることが示されている.
+
+この講演では, Eliashberg-Gromovによる論文「Embeddings of Stein manifolds of dimension n into the affine space of dimension 3n/2+1」の解説をする. 
+\vskip8mm
+
+
+
+
+
+
+
+
+\end{document}
