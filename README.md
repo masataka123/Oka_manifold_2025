@@ -41,7 +41,8 @@ Some properties of meromorphically convex sets
 
 1. 9:30--11:30 
 **岩井雅崇 (大阪大学)**<br>
-CampanaのSpecial多様体およびCampana-Winkelmann ``On h-principle and specialness for complex projective manifolds''の解説
+CampanaのSpecial多様体およびCampana-Winkelmann ``On h-principle and specialness for complex projective manifolds''の解説.
+[Campana Special variety まとめ](https://masataka123.github.io/blog3/pdf/20251218_campana/Campana_04_2025_1218.pdf) [Campana-Winkelman 15 まとめ](https://masataka123.github.io/blog3/pdf/20251218_campana/Campana_Winkelman_2025_1218.pdf) 
 2. 13:00--14:00 
 **内本 諒 (九州大学)**<br>
 特異アフィントーリック多様体への正則写像の拡張
