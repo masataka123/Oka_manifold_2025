@@ -26,7 +26,7 @@
 
 1. 9:30--11:30 
 **日下部 佑太 (九州大学)**<br>
-岡多様体論の現状と未来
+岡多様体論の現状と未来 [板書ノート](https://masataka123.github.io/Oka_manifold_2025/material/kusakabe.pdf)
 2. 13:00--14:00 
 **大岩 亮太(九州大学)**<br>
 Siuの定理の一般化とholomorphic submersionのsectionの近似拡張定理について
@@ -41,7 +41,7 @@ Some properties of meromorphically convex sets
 
 1. 9:30--11:30 
 **岩井雅崇 (大阪大学)**<br>
-CampanaのSpecial多様体およびCampana-Winkelmann ``On h-principle and specialness for complex projective manifolds''の解説.
+CampanaのSpecial多様体およびCampana-Winkelmann ``On h-principle and specialness for complex projective manifolds''の解説. [板書ノート](https://masataka123.github.io/Oka_manifold_2025/material/iwai.pdf)
 [Campana Special variety まとめ](https://masataka123.github.io/blog3/pdf/20251218_campana/Campana_04_2025_1218.pdf) [Campana-Winkelman 15 まとめ](https://masataka123.github.io/blog3/pdf/20251218_campana/Campana_Winkelman_2025_1218.pdf) 
 2. 13:00--14:00 
 **内本 諒 (九州大学)**<br>
@@ -76,12 +76,13 @@ Here is the PDF file of program and abstracts. [Program](https://masataka123.git
 
 南部陽一郎ホールはJ棟にあり, ローソンのある建物が目印です. 
 さらなる情報に関しては[南部陽一郎ホールのページ](https://www.sci.osaka-u.ac.jp/ja/nambu-hall/)をご覧ください. 
--->
+\
 
 ## ノート
 
 勉強会終了後に許可が取れた講演のノートをアップロードいたします. 
 
+-->
 
  
 ## 世話人
